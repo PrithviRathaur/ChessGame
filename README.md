@@ -1,4 +1,4 @@
 # Object Oriented Programming with Chess 
-This project contains files that are used to play out a game of chess using object oriented programming. The application plays out moves in a chess game that are read in from a pgn file containing a series of moves in a game. 
+This project contains files that are used to play out a game of chess using object oriented programming. The application plays out moves in a chess game. The moves are read in from a pgn file that contain a series of moves in a game. 
 ## Project Description
 This project shows how to implement a game of chess in Java using object oriented programming. There are classes created for pieces of the chess board, components of the chess board, and the players to play out a game of chess. This project was built in order to explore object oriented programming and build an initial application of it. Java was the chosen language for this project due to its simplicity with object oriented programming. The concepts that are shown in this application can be applied across any other programming language that offers object oritented programming. 
